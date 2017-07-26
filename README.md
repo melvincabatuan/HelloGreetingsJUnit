@@ -1,5 +1,6 @@
 # HelloGreetingsJUnit
 
+```
 cd /home/cobalt/NetBeansProjects/SimpleTest; JAVA_HOME=/usr/lib/jvm/java-8-oracle /home/cobalt/netbeans-8.2/java/maven/bin/mvn -Dtest=ph.edu.dlsu.simpletest.GreetingsTest surefire:test
 Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
 Scanning for projects...
@@ -34,3 +35,4 @@ Total time: 2.389s
 Finished at: Wed Jul 26 19:12:31 PHT 2017
 Final Memory: 6M/60M
 ------------------------------------------------------------------------
+```
